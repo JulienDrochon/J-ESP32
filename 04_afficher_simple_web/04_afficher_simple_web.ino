@@ -1,3 +1,5 @@
+//Afficher une page web simple hébergée sur l'ESP32
+
 #include <WiFi.h>
 #include <WebServer.h>
 
