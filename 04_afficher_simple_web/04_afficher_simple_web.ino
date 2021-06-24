@@ -3,6 +3,7 @@
 
 const char *ssid = "Nom du réseau auquel vous voulez vous connecter";
 //Créer une page web simple, sans interaction, hébergée sur l'ESP32
+
 const char *password = "Mot de passe du réseau auquel vous voulez vous connecter";
 WebServer server(80);
 
